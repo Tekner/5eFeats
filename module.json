@@ -13,7 +13,10 @@
       "entity": "Item",
       "module": "5eFeats"
     }
-  ]
+  ],
+    "url": "https://github.com/jinkergm/5eFeats",
+    "manifest": "https://raw.githubusercontent.com/jinkergm/5eFeats/master/module.json",
+    "download": "https://github.com/jinkergm/5eFeats/archive/master.zip"
 
  }
 
