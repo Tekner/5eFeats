@@ -1,0 +1,19 @@
+{
+   "name": "5eFeats",
+   "title": "5e Feats",
+   "description": "D&D 5e Feats Compendium",
+   "author": "Jinker",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.5.0",
+   "packs": [
+    {
+      "name": "5eFeats",
+      "label": "5e Feats",
+      "path": "feats.db",
+      "entity": "Item",
+      "module": "5eFeats"
+    }
+  ]
+
+ }
+
